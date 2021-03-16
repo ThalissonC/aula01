@@ -1,5 +1,5 @@
 package sample;
-
+/*
 public class MetodoCadastro {
     public static void main(String[] args) {
         int idade = 17;
@@ -31,3 +31,4 @@ public class MetodoCadastro {
 
     }
 }
+*/
